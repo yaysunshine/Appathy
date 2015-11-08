@@ -1,17 +1,22 @@
-# Appathy
-A google chrome extension that add apathetic ascii art comments to reddit. Get the [extension](https://chrome.google.com/webstore/search/appathy) and checkout our [website](http://appathy.herokuapp.com/) or don't, whatever
+# appathy
+a google chrome extension that add apathetic ascii art comments to reddit
 
 <br />
 
-first-place winner of DBC Hackathon Nov 7 2015
+get the [extension](https://chrome.google.com/webstore/search/appathy) from the chrome store and check out our [website](http://appathy.herokuapp.com/) or don't, whatever
+
+<br />
+
+first place winner of dbc hackathon nov 7 2015
 
 <br />
 
 
-Creators:<br />
-Paul Etscheit<br />
-Tal Schwartz<br />
-Mohamed Shibl<br />
-Catie Kennedy<br />
-Jupiter Baudot<br />
-Jake Cross<br />
+###creators:
+<br />
+paul etscheit<br />
+tal schwartz<br />
+mohamed shibl<br />
+catie kennedy<br />
+jupiter baudot<br />
+jake cross<br />
