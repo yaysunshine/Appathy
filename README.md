@@ -3,7 +3,7 @@
 <br>
 A google chrome extension that add apathetic ascii art comments to reddit.
 <br>
-Find the [extension](https://chrome.google.com/webstore/search/appathy) in the Chrom Store and check out our [website](http://appathy.herokuapp.com/).
+Find the [extension](https://chrome.google.com/webstore/search/appathy) in the Chrome Web Store and check out our [website](http://appathy.herokuapp.com/).
 <br>
 First Place Winner of DBC Hachaton - Nov 2015
 <br>
